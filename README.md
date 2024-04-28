@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @siesto1elemento
-- 👀 I’m interested in finance
-- 🌱 I’m currently learning c++
+- 👋 Hi, I’m Rohit
+- 
+- 👀 I’m interested in Webdev, Webscraping and indiehacking
+- 🌱 I’m currently learning django and javascript
+- 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me rohitojha9720@gmail.com
 
