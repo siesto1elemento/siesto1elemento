@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit
-- 👀 I’m interested in Webdev, Webscraping and indiehacking
-- 🌱 I’m currently learning Django and Javascript
+- 👀 I’m interested in Scalable Backends, Webcrawling, Building Ai-agents and Data Analytics.
+- 🌱 I’m currently learning Langgraph, Langchain, PySpark
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me rohitojha9720@gmail.com
 
